@@ -4,7 +4,7 @@
 </p>
 <p align="center">I'm <strong>👨🏻‍💻 Software Developer </strong> from Colombia with 6 years of experience.<br /></p>
 
-![johnreyes96's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnreyes96)
+![johnreyes96's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnreyes96&show_icons=true&theme=vue&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnreyes96)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=johnreyes96)
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=johnreyes96&theme=minimal)
