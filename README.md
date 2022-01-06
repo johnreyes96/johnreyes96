@@ -21,7 +21,6 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCilSAJf6Lpeq8yWPlzpEu5A)
 [![Youtube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](https://music.youtube.com/channel/UCilSAJf6Lpeq8yWPlzpEu5A)
 
-
 [![Visits](https://komarev.com/ghpvc/?username=johnreyes96&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/johnreyes96)
 
 
