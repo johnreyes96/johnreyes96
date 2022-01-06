@@ -4,8 +4,12 @@
 </p>
 <p align="center">I'm <strong>👨🏻‍💻 Software Developer </strong> from Colombia with 6 years of experience.<br /></p>
 
-<h2>📫 How to reach me</h2>
+![johnreyes96's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnreyes96)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnreyes96)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=johnreyes96)
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=johnreyes96&theme=minimal)
 
+<h2>📫 How to reach me</h2>
 
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:jhonfer96@hotmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-fernando-reyes-lopez/)
@@ -17,12 +21,10 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCilSAJf6Lpeq8yWPlzpEu5A)
 [![Youtube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](https://music.youtube.com/channel/UCilSAJf6Lpeq8yWPlzpEu5A)
 
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
