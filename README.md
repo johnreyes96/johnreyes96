@@ -4,7 +4,7 @@
 </p>
 <p align="center">I'm <strong>👨🏻‍💻 Software Developer </strong> from Colombia with 6 years of experience.<br /></p>
 
-<h2>:pencil: Interests</h2>
+<h2>:soon: Interests</h2>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,6 +14,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<p>&nbsp;</p>
+<h2>:chart_with_upwards_trend: Stats</h2>
 
 ![johnreyes96's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnreyes96&show_icons=true&theme=vue&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnreyes96&langs_count=10&layout=compact&theme=vue)
@@ -27,6 +29,9 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/JohnReyesL)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/johnf.reyesl)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/johnf.reyes/)
+
+<h2>:musical_note: Follow me</h2>
+
 [![SoundCloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/johnf-reyes)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/22yxewh6m7xfobcgvhcl656pa)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCilSAJf6Lpeq8yWPlzpEu5A)
