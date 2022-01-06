@@ -39,4 +39,4 @@
 
 <h2></h2>
 
-[![Visits](https://komarev.com/ghpvc/?username=johnreyes96&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/johnreyes96)
+[![Visits](https://komarev.com/ghpvc/?username=johnreyes96&logo=GitHub&label=GitHub%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/johnreyes96)
