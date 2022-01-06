@@ -21,7 +21,10 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCilSAJf6Lpeq8yWPlzpEu5A)
 [![Youtube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](https://music.youtube.com/channel/UCilSAJf6Lpeq8yWPlzpEu5A)
 
-https://profile-counter.glitch.me/johnreyes96/count.svg
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/johnreyes96/count.svg" />
+</p>
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
