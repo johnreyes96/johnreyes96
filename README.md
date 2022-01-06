@@ -7,7 +7,7 @@
 ![johnreyes96's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnreyes96&show_icons=true&theme=vue&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnreyes96&langs_count=10&layout=compact&theme=vue)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=johnreyes96)
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=johnreyes96&theme=minimal)
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=johnreyes96&theme=github-light&area=true)
 
 <h2>📫 How to reach me</h2>
 
@@ -20,6 +20,8 @@
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/22yxewh6m7xfobcgvhcl656pa)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCilSAJf6Lpeq8yWPlzpEu5A)
 [![Youtube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](https://music.youtube.com/channel/UCilSAJf6Lpeq8yWPlzpEu5A)
+
+<h2>📫 How to reach me</h2>
 
 [![Visits](https://komarev.com/ghpvc/?username=johnreyes96&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/johnreyes96)
 
