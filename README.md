@@ -17,10 +17,18 @@
 <p>&nbsp;</p>
 <h2>:chart_with_upwards_trend: My stats</h2>
 
-![johnreyes96's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnreyes96&show_icons=true&theme=vue&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnreyes96&langs_count=10&layout=compact&theme=vue)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=johnreyes96&theme=github-light&fire=fb8d01&border=c2c9d6)
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=johnreyes96&theme=github-light&area=true)
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=johnreyes96&show_icons=true&theme=vue&count_private=true" alt="github stats" />
+</p>
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnreyes96&langs_count=10&layout=compact&theme=vue" alt="top langs" />
+</p>
+<p align="center">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=johnreyes96&theme=github-light&fire=fb8d01&border=c2c9d6" alt="streak stats" />
+</p>
+<p align="center">
+   <img src="https://activity-graph.herokuapp.com/graph?username=johnreyes96&theme=github-light&area=true" alt="contribution graph" />
+</p>
 
 <h2>📫 How to reach me</h2>
 
