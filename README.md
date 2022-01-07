@@ -115,6 +115,9 @@
    <a href="https://www.jenkins.io/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="jenkis" width="40" height="40" />
    </a>
+   <a href="https://akka.io/" target="_blank">
+      <img src="https://www.svgrepo.com/show/353381/akka.svg" alt="akka" width="40" height="40" />
+   </a>
    <a href="https://dotnet.microsoft.com/en-us/download" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="netcore" width="40" height="40" />
    </a>
