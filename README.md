@@ -17,7 +17,7 @@
 <p>&nbsp;</p>
 <h2>🧐 Knowledge of</h2>
    
- `SCRUM` `KANBAN` `MVC` `MVVM` `Clean Architecture` `Design Patterns` `SOLID principles` `First principle` `Responsive web design` `OOP` `Functional programming` `Reactive programming` `Spring WebFlux` `Microservices` `SOAP` `RESTFUL` `CQRS` `PL/SQL` `Servlets` `Ajax` `JSP` `J2EE` `ASPX` `Log4j` `BPMN` `TDD` `JUnit` `Mockito` `PowerMock` `EasyMock` `coverage code` `performance testing as code` `SAHI` `Bamboo` `FindBugs` `Liquibase`
+ `SCRUM` `KANBAN` `MVC` `MVVM` `Clean Architecture` `Design Patterns` `SOLID principles` `First principle` `Responsive web design` `OOP` `Functional programming` `Reactive programming` `Spring WebFlux` `Microservices` `SOAP` `RESTFUL` `CQRS` `PL/SQL` `Blade` `Servlets` `Ajax` `JSP` `J2EE` `ASPX` `Log4j` `BPMN` `TDD` `JUnit` `Mockito` `PowerMock` `EasyMock` `coverage code` `performance testing as code` `SAHI` `Bamboo` `FindBugs` `Liquibase`
 
 <p>&nbsp;</p>
 <h2>Languages and Tools</h2>
@@ -66,6 +66,9 @@
    </a>
    <a href="https://www.w3.org/html/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40" />
+   </a>
+   <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor" target="_blank">
+      <img src="https://www.svgrepo.com/show/330066/blazor.svg" alt="blazor" width="40" height="40" />
    </a>
    <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40" />
