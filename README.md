@@ -15,6 +15,11 @@
 - ⚡ Fun fact: **I love music :notes: mixing music :headphones: and I'm passionate about playing video games :video_game:**
 
 <p>&nbsp;</p>
+<h2>🧐 Knowledge of</h2>
+   
+ `SCRUM` `KANBAN` `MVC` `MVVM` `Clean Architecture` `Design Patterns` `SOLID principles` `First principle` `Responsive web design` `OOP` `Functional programming` `Reactive programming` `Spring WebFlux` `Microservices` `SOAP` `RESTFUL` `CQRS` `PL/SQL` `Servlets` `Ajax` `JSP` `J2EE` `ASPX` `Log4j` `BPMN` `TDD` `JUnit` `Mockito` `PowerMock` `EasyMock` `coverage code` `performance testing as code` `SAHI` `Bamboo` `FindBugs` `Liquibase`
+
+<p>&nbsp;</p>
 <h2>Languages and Tools</h2>
 <p>
    <a href="https://www.oracle.com/java/" target="_blank">
