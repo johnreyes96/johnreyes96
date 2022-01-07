@@ -3,15 +3,16 @@
    <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm John Reyes</h1>
 </p>
 <p align="center">I'm <strong>👨🏻‍💻 Software Developer </strong> from Colombia with 6 years of experience.<br /></p>
+<p align="justify">I like to automate manual and repetitive business processes with software development using best practices, clean architecture, design patterns and provide the best solutions to customer needs. I am proactive, self-taught, adaptable to change, achievement oriented, a fast learner and a team player. I like to be updated with new technologies and software development tools, I am also open to the possibility of learning other programming languages. I see myself in 5 years as an architect, knowing many tools and programming languages to give the best solutions according to the client's need, covering front-end, back-end, API's, cloud, mobile, containers and DevOps.</p>
 
 <h2>:pencil: My interests</h2>
 
 - 🔭 I’m currently working on **reactive programming on Java 8 with Spring Boot and Spring WebFlux**
 - 🌱 I’m currently learning **Spring Boot, Spring WebFlux, Flutter, Python and Arduino**
 - 🤔 I’m looking for help with **Java libraries open source about to convert eml and msg files to pdf**
-- :notebook: My portfolio [https://github.com/johnreyes96](https://github.com/johnreyes96?tab=repositories)
+- :notebook: My projects [https://github.com/johnreyes96](https://github.com/johnreyes96?tab=repositories)
 - 💬 Ask me about **Java, Scala, basic Flutter and Angular**
-- ⚡ Fun fact: **I love music :notes: and I'm passionate about playing videogames :video_game:**
+- ⚡ Fun fact: **I love music :notes: mixing music :headphones: and I'm passionate about playing video games :video_game:**
 
 <p>&nbsp;</p>
 <h2>:chart_with_upwards_trend: My stats</h2>
