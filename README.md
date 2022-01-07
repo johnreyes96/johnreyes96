@@ -151,8 +151,26 @@
    <a href="https://trello.com/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="trello" width="40" height="40" />
    </a>
+   <a href="https://www.sonarqube.org/" target="_blank">
+      <img src="https://www.svgrepo.com/show/354365/sonarqube.svg" alt="SonarQube" width="40" height="40" />
+   </a>
+   <a href="https://www.atlassian.com/es/software/crucible" target="_blank">
+      <img src="https://www.svgrepo.com/show/353619/crucible.svg" alt="Crucible" width="40" height="40" />
+   </a>
    <a href="https://gatling.io/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatling/gatling-plain.svg" alt="gatling" width="40" height="40" />
+   </a>
+   <a href="https://www.rabbitmq.com/" target="_blank">
+      <img src="https://www.svgrepo.com/show/354250/rabbitmq-icon.svg" alt="RabbitMQ" width="40" height="40" />
+   </a>
+   <a href="https://www.elastic.co/es/kibana/" target="_blank">
+      <img src="https://www.svgrepo.com/show/353961/kibana.svg" alt="Kibana" width="40" height="40" />
+   </a>
+   <a href="https://www.splunk.com/" target="_blank">
+      <img src="https://www.svgrepo.com/show/354376/splunk.svg" alt="Splunk" width="40" height="40" />
+   </a>
+   <a href="https://palantir.github.io/tslint/" target="_blank">
+      <img src="https://www.svgrepo.com/show/374138/tslint.svg" alt="TSLint" width="40" height="40" />
    </a>
    <a href="https://www.jetbrains.com/es-es/idea/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40" />
