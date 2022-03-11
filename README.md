@@ -8,10 +8,10 @@
 <h2>:pencil: My interests</h2>
 
 - 🔭 I’m currently working on **reactive programming on Java 8 with Spring Boot and Spring WebFlux**
-- 🌱 I’m currently learning **Spring Boot, Spring WebFlux, Flutter, Python and Arduino**
+- 🌱 I’m currently learning **advanced CSS, Python, Jupyter Notebook and artificial intelligence**
 - 🤔 I’m looking for help with **Java libraries open source about to convert eml and msg files to pdf**
 - :notebook: My projects [https://github.com/johnreyes96](https://github.com/johnreyes96?tab=repositories)
-- 💬 Ask me about **Java, Scala, basic Flutter and Angular**
+- 💬 Ask me about **Java, Scala, Flutter and Angular**
 - ⚡ Fun fact: **I love music :notes: mixing music :headphones: and I'm passionate about playing video games :video_game:**
 
 <p>&nbsp;</p>
