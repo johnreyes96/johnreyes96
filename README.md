@@ -8,7 +8,7 @@
 <h2>:pencil: My interests</h2>
 
 - 🔭 I’m currently working on **reactive programming on Java 8 with Spring Boot and Spring WebFlux**
-- 🌱 I’m currently learning **advanced CSS, Python, Jupyter Notebook and artificial intelligence**
+- 🌱 I’m currently learning **advanced CSS, Python, Jupyter Notebook, artificial intelligence and compilers**
 - 🤔 I’m looking for help with **Java libraries open source about to convert eml and msg files to pdf**
 - :notebook: My projects [https://github.com/johnreyes96](https://github.com/johnreyes96?tab=repositories)
 - 💬 Ask me about **Java, Scala, Flutter and Angular**
