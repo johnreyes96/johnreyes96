@@ -250,7 +250,7 @@
 
 <h2></h2>
 
-[![Visitors](https://komarev.com/ghpvc/?username=johnreyes96&logo=GitHub&label=visitors&color=336699&logoColor=white&style=flat-square)](https://github.com/johnreyes96)
+[![Visitors](https://komarev.com/ghpvc/?username=johnreyes96&logo=GitHub&label=Visitors&color=336699&logoColor=white&style=flat-square)](https://github.com/johnreyes96)
 [![Twitter followers](https://img.shields.io/twitter/follow/JohnReyesL?color=1DA1F2&label=%40JohnReyesL)](https://twitter.com/JohnReyesL)
 [![GitHub followers](https://img.shields.io/github/followers/johnreyes96?label=Follow%20Me&style=social)](https://github.com/johnreyes96)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCilSAJf6Lpeq8yWPlzpEu5A?style=social)](https://www.youtube.com/user/jhonfer0159/featured)
