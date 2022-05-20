@@ -17,7 +17,7 @@
 <p>&nbsp;</p>
 <h2>🧐 Knowledge of</h2>
    
- `SCRUM` `KANBAN` `MVC` `MVVM` `Clean Architecture` `Design Patterns` `SOLID principles` `First principle` `Responsive web design` `OOP` `Functional programming` `Reactive programming` `Spring WebFlux` `Microservices` `SOAP` `RESTFUL` `CQRS` `PL/SQL` `Blade` `Servlets` `Ajax` `JSP` `J2EE` `ASPX` `Log4j` `BPMN` `TDD` `JUnit` `Mockito` `PowerMock` `EasyMock` `coverage code` `performance testing as code` `SAHI` `Bamboo` `FindBugs` `Liquibase` <!-- Jupyter Notebook, gradle, h2, google cloud platform, sbt  -->
+ `SCRUM` `KANBAN` `MVC` `MVVM` `Clean Architecture` `Design Patterns` `SOLID principles` `First principle` `Responsive web design` `OOP` `Functional programming` `Reactive programming` `Spring WebFlux` `Microservices` `SOAP` `RESTFUL` `CQRS` `PL/SQL` `Blade` `Servlets` `Ajax` `JSP` `J2EE` `ASPX` `Log4j` `BPMN` `TDD` `JUnit` `Mockito` `PowerMock` `EasyMock` `coverage code` `performance testing as code` `SAHI` `Bamboo` `FindBugs` `Liquibase` <!-- gradle, h2, google cloud platform, sbt  -->
 
 <p>&nbsp;</p>
 <h2>:wrench: Languages and Tools</h2>
@@ -45,6 +45,9 @@
    </a>
    <a href="https://www.python.org/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40" />
+   </a>
+   <a href="https://jupyter.org/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40" />
    </a>
    <a href="https://dart.dev/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="dart" width="40" height="40" />
