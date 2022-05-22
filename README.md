@@ -17,7 +17,7 @@
 <p>&nbsp;</p>
 <h2>🧐 Knowledge of</h2>
    
- `SCRUM` `KANBAN` `MVC` `MVVM` `Clean Architecture` `Design Patterns` `SOLID principles` `First principle` `Responsive web design` `OOP` `Functional programming` `Reactive programming` `Spring WebFlux` `Microservices` `SOAP` `RESTFUL` `CQRS` `PL/SQL` `Blade` `Servlets` `Ajax` `JSP` `J2EE` `ASPX` `Log4j` `BPMN` `TDD` `JUnit` `Mockito` `PowerMock` `EasyMock` `coverage code` `performance testing as code` `SAHI` `Bamboo` `FindBugs` `Liquibase` <!-- gradle, h2, google cloud platform, sbt  -->
+ `SCRUM` `KANBAN` `MVC` `MVVM` `Clean Architecture` `Design Patterns` `SOLID principles` `First principle` `Responsive web design` `OOP` `Functional programming` `Reactive programming` `Spring WebFlux` `Microservices` `SOAP` `RESTFUL` `CQRS` `PL/SQL` `Blade` `Servlets` `Ajax` `JSP` `J2EE` `ASPX` `Log4j` `BPMN` `TDD` `JUnit` `Mockito` `PowerMock` `EasyMock` `coverage code` `performance testing as code` `SAHI` `Bamboo` `FindBugs` `Liquibase` <!-- h2, google cloud platform, sbt  -->
 
 <p>&nbsp;</p>
 <h2>:wrench: Languages and Tools</h2>
@@ -135,6 +135,9 @@
    </a>
    <a href="https://maven.apache.org/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="maven" width="40" height="40" />
+   </a>
+   <a href="https://gradle.org/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" alt="maven" width="40" height="40" />
    </a>
    <a href="https://www.npmjs.com/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40" />
