@@ -1,5 +1,5 @@
 <p align="center" width="300">
-   <img align="center" width="200" src="https://lh3.googleusercontent.com/a-/AOh14GgSR5shit8l40X2NrG8YddGgAZi_8_hW9e44LCo=s360-p-rw-no" />
+   <img align="center" width="200" src="https://avatars.githubusercontent.com/u/107081054?v=4" />
    <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm John Reyes</h1>
 </p>
 <p align="center">I'm <strong>👨🏻‍💻 Software Developer </strong> from Colombia with 6 years of experience.<br /></p>
