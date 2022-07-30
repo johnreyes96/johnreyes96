@@ -7,7 +7,7 @@
 
 <h2>:pencil: My interests</h2>
 
-- 🔭 I’m currently working on **reactive programming on Java 8 with Spring Boot and Spring WebFlux**
+- 🔭 I’m currently working on **Golang**
 - 🌱 I’m currently learning **Python, Jupyter Notebook, artificial intelligence, compilers and Assembly x64**
 - 🤔 I’m looking for help with **Java libraries open source about to convert eml and msg files to pdf**
 - :notebook: My projects [https://github.com/johnreyes96](https://github.com/johnreyes96?tab=repositories)
