@@ -17,7 +17,7 @@
 <p>&nbsp;</p>
 <h2>🧐 Knowledge of</h2>
    
- `SCRUM` `KANBAN` `MVC` `MVVM` `Clean Architecture` `Design Patterns` `SOLID principles` `First principle` `Responsive web design` `OOP` `Functional programming` `Reactive programming` `Spring WebFlux` `Microservices` `SOAP` `RESTFUL` `CQRS` `PL/SQL` `Blade` `Servlets` `Ajax` `JSP` `J2EE` `ASPX` `Log4j` `BPMN` `TDD` `JUnit` `Mockito` `PowerMock` `EasyMock` `coverage code` `performance testing as code` `SAHI` `Bamboo` `FindBugs` `Liquibase` <!-- h2, google cloud platform, sbt  -->
+ `SCRUM` `KANBAN` `MVC architectural pattern` `MVVM architectural pattern` `Clean architecture` `Hexagonal architecture` `Microservices architecture` `Design patterns` `CQRS pattern` `SOLID principles` `FIRST principles of testing` `Responsive web design` `Mobile first design` `OOP` `Functional programming` `Reactive programming` `Spring WebFlux` `SOAP` `RESTFUL` `H2` `PL/SQL` `Blade` `Servlets` `Ajax` `JSP` `J2EE` `ASPX` `Log4j` `BPMN` `TDD` `JUnit` `Mockito` `PowerMock` `EasyMock` `Code coverage` `Performance testing as code` `SAHI` `Bamboo` `FindBugs` `Liquibase`
 
 <p>&nbsp;</p>
 <h2>:wrench: Languages and Tools</h2>
@@ -42,6 +42,9 @@
    </a>
    <a href="https://www.typescriptlang.org/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
+   </a>
+   <a href="https://go.dev/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="golang" width="40" height="40" />
    </a>
    <a href="https://www.python.org/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40" />
@@ -109,10 +112,13 @@
    <a href="https://www.mysql.com/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40" />
    </a>
+   <a href="https://www.postgresql.org/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40" />
+   </a>
    <a href="https://www.mongodb.com/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40" />
    </a>
-   <a href="https://firebase.google.com/?hl=es-419" target="_blank">
+   <a href="https://firebase.google.com/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40" />
    </a>
    <a href="https://www.jenkins.io/" target="_blank">
@@ -124,8 +130,11 @@
    <a href="https://dotnet.microsoft.com/en-us/download" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="netcore" width="40" height="40" />
    </a>
-   <a href="https://azure.microsoft.com/es-es/" target="_blank">
+   <a href="https://azure.microsoft.com/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" width="40" height="40" />
+   </a>
+   <a href="https://cloud.google.com/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="google cloud platform" width="40" height="40" />
    </a>
    <a href="https://www.selenium.dev/" target="_blank">
       <img src="https://www.svgrepo.com/show/354321/selenium.svg" alt="selenium" width="40" height="40" />
@@ -138,6 +147,9 @@
    </a>
    <a href="https://gradle.org/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" alt="maven" width="40" height="40" />
+   </a>
+   <a href="https://www.scala-sbt.org/" target="_blank">
+      <img src="https://www.svgrepo.com/show/374063/sbt.svg" alt="sbt" width="40" height="40" />
    </a>
    <a href="https://www.npmjs.com/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40" />
@@ -184,13 +196,13 @@
    <a href="https://palantir.github.io/tslint/" target="_blank">
       <img src="https://www.svgrepo.com/show/374138/tslint.svg" alt="TSLint" width="40" height="40" />
    </a>
-   <a href="https://www.jetbrains.com/es-es/idea/" target="_blank">
+   <a href="https://www.jetbrains.com/idea/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40" />
    </a
    <a href="https://code.visualstudio.com/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="visual studio code" width="40" height="40" />
    </a>
-   <a href="https://visualstudio.microsoft.com/es/" target="_blank">
+   <a href="https://visualstudio.microsoft.com/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40" />
    </a>
    <a href="https://www.eclipse.org/downloads/" target="_blank">
@@ -199,7 +211,7 @@
    <a href="https://www.sublimetext.com/" target="_blank">
       <img src="https://www.svgrepo.com/show/349520/sublimetext.svg" alt="sublime text" width="40" height="40" />
    </a>
-   <a href="https://www.jetbrains.com/es-es/pycharm/" target="_blank">
+   <a href="https://www.jetbrains.com/pycharm/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40" />
    </a>
    <a href="https://jasmine.github.io/" target="_blank">
@@ -211,7 +223,7 @@
    <a href="https://tomcat.apache.org/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" alt="tomcat" width="40" height="40" />
    </a>
-   <a href="https://www.apachefriends.org/es/index.html" target="_blank">
+   <a href="https://www.apachefriends.org/index.html" target="_blank">
       <img src="https://www.svgrepo.com/show/354575/xampp.svg" alt="xampp" width="40" height="40" />
    </a>
    <a href="https://www.postman.com/" target="_blank">
