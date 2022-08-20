@@ -17,7 +17,7 @@
 <p>&nbsp;</p>
 <h2>🧐 Knowledge of</h2>
    
- `SCRUM` `KANBAN` `MVC architectural pattern` `MVVM architectural pattern` `Clean architecture` `Hexagonal architecture` `Microservices architecture` `Design patterns` `CQRS pattern` `SOLID principles` `FIRST principles of testing` `Responsive web design` `Mobile first design` `OOP` `Functional programming` `Reactive programming` `Spring WebFlux` `SOAP` `RESTFUL` `H2` `PL/SQL` `Blade` `Servlets` `Ajax` `JSP` `J2EE` `ASPX` `Log4j` `BPMN` `TDD` `JUnit` `Mockito` `PowerMock` `EasyMock` `Code coverage` `Performance testing as code` `SAHI` `Bamboo` `FindBugs` `Liquibase`
+ `SCRUM` `KANBAN` `MVC architectural pattern` `MVVM architectural pattern` `Clean architecture` `Hexagonal architecture` `Microservices architecture` `Design patterns` `CQRS pattern` `SOLID principles` `FIRST principles of testing` `Responsive web design` `Mobile first design` `OOP` `Functional programming` `Reactive programming` `Spring WebFlux` `SOAP` `RESTFUL` `H2` `PL/SQL` `Blade` `Servlets` `AJAX` `JSP` `J2EE` `ASPX` `Log4j` `BPMN` `TDD` `Units tests` `Mockito` `PowerMock` `EasyMock` `Code coverage` `Performance testing as code` `SAHI` `Bamboo` `FindBugs` `Liquibase`
 
 <p>&nbsp;</p>
 <h2>:wrench: Languages and Tools</h2>
