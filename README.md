@@ -7,8 +7,8 @@
 
 <h2>:pencil: My interests</h2>
 
-- 🔭 I’m currently working on **Golang and Java with Spring Boot**
-- 🌱 I’m currently learning **Golang and artificial vision**
+- 🔭 I’m currently working on **Golang**
+- 🌱 I’m currently learning **Golang, artificial vision, modeling and simulation**
 - 🤔 I’m looking for help with **Java libraries open source about to convert eml and msg files to pdf**
 - :notebook: My projects [https://github.com/johnreyes96](https://github.com/johnreyes96?tab=repositories)
 - 💬 Ask me about **Java, Scala, Flutter and Angular**
