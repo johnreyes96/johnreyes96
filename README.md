@@ -7,8 +7,8 @@
 
 <h2>:pencil: My interests</h2>
 
-- 🔭 I’m currently working on **Golang**
-- 🌱 I’m currently learning **Golang, artificial vision, modeling and simulation**
+- 🔭 I’m currently working on **Golang, Java and NodeJs**
+- 🌱 I’m currently learning **Golang and NodeJs**
 - 🤔 I’m looking for help with **Java libraries open source about to convert eml and msg files to pdf**
 - :notebook: My projects [https://github.com/johnreyes96](https://github.com/johnreyes96?tab=repositories)
 - 💬 Ask me about **Java, Scala, Flutter and Angular**
@@ -17,7 +17,7 @@
 <p>&nbsp;</p>
 <h2>🧐 Knowledge of</h2>
    
- `SCRUM` `KANBAN` `MVC architectural pattern` `MVVM architectural pattern` `Clean architecture` `Hexagonal architecture` `Microservices architecture` `Design patterns` `CQRS pattern` `SOLID principles` `FIRST principles of testing` `Responsive web design` `Mobile first design` `OOP` `Functional programming` `Reactive programming` `Spring WebFlux` `SOAP` `RESTFUL` `H2` `PL/SQL` `Blade` `Servlets` `AJAX` `JSP` `J2EE` `ASPX` `Log4j` `BPMN` `TDD` `Units tests` `Mockito` `PowerMock` `EasyMock` `Code coverage` `Performance testing as code` `SAHI` `Bamboo` `FindBugs` `Liquibase`
+ `SCRUM` `KANBAN` `MVC architectural pattern` `MVVM architectural pattern` `Clean architecture` `Hexagonal architecture` `Microservices architecture` `Design patterns` `CQRS pattern` `SOLID principles` `FIRST principles of testing` `Responsive web design` `Mobile first design` `OOP` `Functional programming` `Reactive programming` `Spring WebFlux` `SOAP` `RESTFUL` `H2` `PL/SQL` `Blade` `Servlets` `AJAX` `JSP` `J2EE` `ASPX` `Log4j` `BPMN` `TDD` `Units tests` `Mockito` `PowerMock` `EasyMock` `Code coverage` `Performance testing as code` `SAHI` `Bamboo` `FindBugs` `Liquibase` `DataDog` `NodeJs`
 
 <p>&nbsp;</p>
 <h2>:wrench: Languages and Tools</h2>
