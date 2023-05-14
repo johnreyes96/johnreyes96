@@ -247,7 +247,7 @@
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=johnreyes96&theme=github-light&fire=fb8d01&border=c2c9d6" alt="streak stats" />
 </p>
 <p align="center">
-   <img src="https://activity-graph.herokuapp.com/graph?username=johnreyes96&theme=github-light&area=true" alt="contribution graph" />
+   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=johnreyes96&theme=github-light&area=true" alt="contribution graph" />
 </p>
 
 <h2>📫 How to reach me</h2>
