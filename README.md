@@ -17,7 +17,7 @@
 <p>&nbsp;</p>
 <h2>🧐 Knowledge of</h2>
    
- `SCRUM` `KANBAN` `MVC architectural pattern` `MVVM architectural pattern` `Clean architecture` `Hexagonal architecture` `Microservices architecture` `Design patterns` `CQRS pattern` `SOLID principles` `FIRST principles of testing` `Responsive web design` `Mobile first design` `OOP` `Functional programming` `Reactive programming` `Spring WebFlux` `SOAP` `RESTFUL` `H2` `PL/SQL` `Blade` `Servlets` `AJAX` `JSP` `J2EE` `ASPX` `Log4j` `BPMN` `TDD` `Units tests` `Mockito` `PowerMock` `EasyMock` `Code coverage` `Performance testing as code` `SAHI` `Bamboo` `FindBugs` `Liquibase` `DataDog` `NodeJs`
+ `SCRUM` `KANBAN` `MVC architectural pattern` `MVVM architectural pattern` `Clean architecture` `Hexagonal architecture` `Microservices architecture` `Design patterns` `CQRS pattern` `SOLID principles` `FIRST principles of testing` `Responsive web design` `Mobile first design` `OOP` `Functional programming` `Reactive programming` `Spring WebFlux` `SOAP` `RESTFUL` `H2` `PL/SQL` `Blade` `Servlets` `AJAX` `JSP` `J2EE` `ASPX` `Log4j` `BPMN` `TDD` `Units tests` `Mockito` `PowerMock` `EasyMock` `Code coverage` `Performance testing as code` `SAHI` `Bamboo` `FindBugs` `Liquibase` `DataDog`
 
 <p>&nbsp;</p>
 <h2>:wrench: Languages and Tools</h2>
@@ -42,6 +42,9 @@
    </a>
    <a href="https://www.typescriptlang.org/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
+   </a>
+   <a href="https://nodejs.org/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40" />
    </a>
    <a href="https://go.dev/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="golang" width="40" height="40" />
