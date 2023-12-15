@@ -2,7 +2,7 @@
    <img align="center" width="200" src="https://avatars.githubusercontent.com/u/107081054?v=4" />
    <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm John Reyes</h1>
 </p>
-<p align="center">I'm 👨🏻‍💻 <strong>Ssr Software Engineer</strong> from Colombia with 7 years of experience.<br /></p>
+<p align="center">I'm 👨🏻‍💻 <strong>Ssr Software Engineer</strong> from Colombia with 8 years of experience.<br /></p>
 <p align="justify">I like to automate manual and repetitive business processes with software development using best practices, clean architecture, design patterns and provide the best solutions to customer needs. I am proactive, self-taught, adaptable to change, achievement oriented, a fast learner and a team player. I like to be updated with new technologies and software development tools, I am also open to the possibility of learning other programming languages. I see myself for the year 2027 as an architect, knowing many tools and programming languages to give the best solutions according to the client's need, covering front-end, back-end, API's, cloud, mobile, containers and DevOps.</p>
 
 <h2>:pencil: My interests</h2>
